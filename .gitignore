@@ -1,0 +1,4 @@
+screenshot.png
+test-results.xml
+.pytest_cache/
+__pycache__/
